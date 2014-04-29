@@ -17,6 +17,8 @@ My primary additions were the progress bar from the tcltk2 package and two ggplo
 
 Progress Bar: Primary Components
 
+<img src="https://github.com/benporter/parallel-speed-test-R/blob/master/parallelscreenshot.jpeg.png">
+
 Initialize with the progress bar with a title and parameters for the smallest and largest values to expect
 
     # Test Parameters
