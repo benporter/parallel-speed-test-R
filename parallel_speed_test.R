@@ -5,7 +5,7 @@ library(tcltk2)  # for the popup status window
 # Test Parameters
 runs <- 5 # number of times to repeat experiment
 obs_list <- c(50000, 100000, 150000, 200000) # num obs to generate
-cores_list <-c(1,2,3,4,5,6,7,8) # number of cores to use
+cores_list <-c(1,2,3,4,5,6,7,8,9,10) # number of cores to use
 
 # total iterations to make
 total <- runs * length(obs_list) * length(cores_list)
