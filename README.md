@@ -68,9 +68,11 @@ Before running another iteration of the loop with a different value for the numb
 
     stopCluster(cluster)
 
+=====================
+
 Results of the experiment:
 
-One way to view the data, via a set of 4 boxplots
+One way to view the data, via a scatter of boxplots that don't add a ton of clarity, but they're pretty.
 
 <img src="https://github.com/benporter/parallel-speed-test-R/blob/master/boxplot.png?raw=true" alt="Box Plot" title="Box Plot" />
 
