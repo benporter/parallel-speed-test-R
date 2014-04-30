@@ -67,3 +67,14 @@ Execute your function with a <i>foreach</i> loop from the doParallel package, an
 Before running another iteration of the loop with a different value for the number of cores, reset the cores option.
 
     stopCluster(cluster)
+
+Results of the experiment:
+
+One way to view the data, via a set of 4 boxplots
+
+<img src="https://github.com/benporter/parallel-speed-test-R/blob/master/boxplot.png?raw=true" alt="Box Plot" title="Box Plot" />
+
+Another way to view the same results, which comes out a bit clearer
+
+<img src="https://github.com/benporter/parallel-speed-test-R/blob/master/linechart.png?raw=true" alt="Line Chart" title="Line Chart" />
+
